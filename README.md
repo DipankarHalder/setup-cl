@@ -1,6 +1,6 @@
 ## Clone Repo
 ```bash
-https://github.com/DipankarHalder/setup-cl.git
+git clone https://github.com/DipankarHalder/setup-cl.git
 ```
 
 ## Getting Started
