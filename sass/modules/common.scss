@@ -1,0 +1,19 @@
+.app-container{
+  margin: 0 auto;
+  max-width: 1300px;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+.cover-full {
+  float: left;
+  width: 100%;
+}
+.app-body{
+  min-height: 30rem;
+  display: grid;
+  font-size: 40px;
+  place: {
+    items: center;
+    content: center;
+  }
+}
